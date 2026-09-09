@@ -90,7 +90,6 @@ Secondly. traditional travel tools use static images linked to specific venue li
 
 
 
-4.
 
 
 
