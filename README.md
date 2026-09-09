@@ -39,8 +39,20 @@ We shortlisted five features across the trip lifecycle. Three were cut early bec
 
 
 2.3 Mentor Consultation
-|          Date       | Mentor     | Feedback Received | What Was Changed |
-| 5 Sep 2026, 9:20 PM | Zach Khong | **Idea:** Be original in how you present data. Maximise one core feature rather than spreading thin; users are usually not comfortable providing a lot of input.<br><br>**Pitching:** Focus the pitch around a single core feature, not a feature list.<br><br>**UI/UX:** Keep the interface simple. | Narrowed the app to one standout core feature instead of trying to solve every travel-planning pain point at once. Reduced the manual input expected from users by relying more on swipe and quick-choice interactions rather than forms. Simplified the UI direction so the core feature is clear, without extra functions competing for attention. |
+
+### 5 Sep 2026, 9:20 PM — Zach Khong
+
+**Feedback received**
+
+- **Idea:** Be original in how you present data. Maximise one core feature rather than spreading thin; users are usually not comfortable providing a lot of input.
+- **Pitching:** Build the pitch around one core feature, rather than presenting a long feature list.
+- **UI/UX:** Keep the interface simple.
+
+**What we changed**
+
+- Narrowed the app to one standout core feature instead of trying to solve every travel-planning pain point at once.
+- Reduced the manual input expected from users by relying more on swipe and quick-choice interactions rather than forms.
+- Simplified the UI direction so the core feature is clear, without extra functions competing for attention.
 
 
 
