@@ -47,7 +47,50 @@ The planned places will be recommended by datas from the Internet from different
 
 
 
-3. 
+3. Prototype walkthrough
+
+    -1. Start a group trip
+
+![Radiant Route home page](./assets/prototype/01-home.png)
+
+The landing page introduces Radiant Route and gives the host a clear **Plan New Trip** starting point for creating a collaborative trip.
+
+    -2. Set up the trip group and preferences
+
+![New trip setup](./assets/prototype/02-trip-setup.png)
+
+After selecting **Plan New Trip**, the host enters the trip’s initial details, such as the destination, number of travellers, dates, and the group’s interests. These inputs give the AI the context it needs to create relevant itinerary options.
+
+    -3. Compare AI-generated routes and vote
+
+![AI-generated route choices](./assets/prototype/03-route-voting.png)
+
+The AI produces several route alternatives with different mixes of experiences. Each traveller can review the choices and vote for the route that best matches their preferences, whether that means culture, history, food, or another travel style.
+
+    -4. Let the host choose how to decide
+
+![Host route decision options](./assets/prototype/04-host-decision.png)
+
+Once voting is complete, the host can either confirm the highest-voted route or ask the AI to combine ideas from the leading options into a more balanced itinerary for the group.
+
+    -5. Select routes to integrate
+
+![Route integration selection](./assets/prototype/05-route-integration.png)
+
+For a balanced plan, the host selects the route options and preference mixes to integrate. This gives the group control over which experiences should be preserved in the new itinerary.
+
+    -6. Review and vote on the balanced route
+
+![Integrated route detail](./assets/prototype/06-balanced-route.png)
+
+Radiant Route presents a newly generated itinerary that combines the selected preferences. Travellers can inspect its route details, leave a review, and vote on the updated plan before the group finalises it.
+
+    -7. Visualise the journey on a map
+
+![Route map and travel details](./assets/prototype/07-map-view.png)
+
+The map view shows every stop in the itinerary and makes the journey easy to imagine. Travellers can see where they will go, how long each transfer takes, and whether to walk or use another mode of transport between stops.
+
 
 
 
