@@ -12,26 +12,21 @@ Presentation Slides :
 
 1. Project Overview
 
-The Problem: Current tour guides do not have the actual tools to make lots of different itinerary for customers to actually decide on an itinerary that everyone can agree to and be satisfied. Even so, Chat GPT and lots of chatbots don't really have the visuals to persuade users to go to destinations, they use word forms to elaborate what sights or food you'll be seeing or eating while users can't really imagine those visually. 
+The Problem: Current tour guides do not have the actual tools to make lots of different itinerary for customers to actually decide on an itinerary that everyone can agree to and be satisfied. Even so, Chat GPT and lots of chatbots don't really have the visuals to persuade users to go to destinations, they use word forms to elaborate what sights or food you'll be seeing or eating while users can't really imagine those visually. The main problem still is current tour guides just average out all possible interests and prints it out on your itinerary, what if you could give them a separate option where they get to choose specific interests. For example, 1st option with more places on food, while second option more places on historical sites, and people might not only have 1 interests, maybe they would all have the same interests.
 
 
-Our Solution. We presented an app that easily address those issues. Our app has an AI agent that will generate different itineraries based on different interest and based on ideal routes, and if not satisfied they can keep voting until everyone is satisfied as the smart AI will combine top options and be set as another option for people to choose. Not only that, users get to preview the point of view of the places from the itinerary option that they chose to preview to really look into it visually what to be expected.
-
-2.
-
+Our Solution. We presented an app that easily address those issues. Our app has an AI agent that will generate different itineraries based on different interest and based on ideal routes, and if not satisfied they can keep voting until everyone is satisfied as the smart AI will combine top options and be set as another option for people to choose. Not only that, users get to preview the point of view of the places from the itinerary option that they chose to preview to really look into it visually what to be expected. Moreover to address this preference issue, as we talked about generating different options we could have options that focus more on food, another one that focus more on cultural stuff because some cities might have specific stuff that they excek in like historical sites, or even food, or cultural stuff.
 
 
 
+2.1 Ideas WE CONSIDERED
+
+Ideas                                                                                                                                                                       Why it was dropped / kept
+
+To make your phone buzzes and give you like recommended food or places to visit around you when app looks at your itinerary when u have free time                          Too many unique functions making the app complicated
 
 
-
-
-
-
-
-
-
-2.
+The planned places will be recommended by datas from the Internet from different sources to be different from traditional tour guides that bring you to crowded places      Unrealistic, as sources could be unpredictable
 
 
 
@@ -47,7 +42,38 @@ Our Solution. We presented an app that easily address those issues. Our app has 
 
 
 
-3.
+
+
+
+
+
+3. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. What Makes our idea Different
+
+
+Core Functionality: The AI agent groups the friends' pooled interests and generates distinct itinerary options, where each option is heavily anchored around a single, specific interest theme (e.g., Option 1 is 80% Food-focused, Option 2 is 80% History-focused).
+
+The Twist: Unlike other apps of giving everyone a watered-down, generic mix of everything, the app creates clear, intentionally biased archetypes. This allows the group to vote on a vibe or dominant theme for the itinerary, forcing a clear decision on what matters most to them. The thing is we could satisfy all the users at the same time, as they might one more out of something instead of another type of places. 
+
+Secondly. traditional travel tools use static images linked to specific venue listings. Here, the visual preview dynamically adapts alongside the mutating AI itinerary, giving users instant visual context for every algorithmic modification, so that they know what they are expecting in each places giving them more convenience instead of just googling the places and checking what to expected there.
+
+
+
 
 
 
