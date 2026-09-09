@@ -21,12 +21,12 @@ Our Solution. We presented an app that easily address those issues. Our app has 
 
 2.1 Ideas WE CONSIDERED
 
-Ideas                                                                                                                                                                       Why it was dropped / kept
+Ideas                                                                                                                                                                       || Why it was dropped / kept
 
-To make your phone buzzes and give you like recommended food or places to visit around you when app looks at your itinerary when u have free time                          Too many unique functions making the app complicated
+To make your phone buzzes and give you like recommended food or places to visit around you when app looks at your itinerary when u have free time                          || Too many unique functions making the app complicated
 
 
-The planned places will be recommended by datas from the Internet from different sources to be different from traditional tour guides that bring you to crowded places      Unrealistic, as sources could be unpredictable
+The planned places will be recommended by datas from the Internet from different sources to be different from traditional tour guides that bring you to crowded places     || Unrealistic, as sources could be unpredictable
 
 
 
