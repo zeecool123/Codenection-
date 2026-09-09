@@ -8,7 +8,7 @@ Problem Statement: Travel Planner
 
 Video Presentation :
 
-Presentation SLides :
+Presentation Slides :
 
 1. Project Overview
 
