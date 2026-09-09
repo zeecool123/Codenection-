@@ -30,16 +30,17 @@ The planned places will be recommended by datas from the Internet from different
 
 
 
+2.2 Ideation Boards
+
+![Feature-narrowing ideation board](./assets/ideation/idea-narrowing-with-mentor-advice.png)
+
+We shortlisted five features across the trip lifecycle. Three were cut early because of privacy, technical-complexity, and timeline constraints. The remaining two—AI-driven recommendations and group preference matching—were brought to mentor consultation on 5 September; following the advice to focus on one core feature, we selected group preference matching as our MVP.
 
 
 
-
-
-
-
-
-
-
+2.3 Mentor Consultation
+|          Date       | Mentor     | Feedback Received | What Was Changed |
+| 5 Sep 2026, 9:20 PM | Zach Khong | **Idea:** Be original in how you present data. Maximise one core feature rather than spreading thin; users are usually not comfortable providing a lot of input.<br><br>**Pitching:** Focus the pitch around a single core feature, not a feature list.<br><br>**UI/UX:** Keep the interface simple. | Narrowed the app to one standout core feature instead of trying to solve every travel-planning pain point at once. Reduced the manual input expected from users by relying more on swipe and quick-choice interactions rather than forms. Simplified the UI direction so the core feature is clear, without extra functions competing for attention. |
 
 
 
@@ -94,18 +95,6 @@ The map view shows every stop in the itinerary and makes the journey easy to ima
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 4. What Makes our idea Different
 
 
@@ -114,24 +103,6 @@ Core Functionality: The AI agent groups the friends' pooled interests and genera
 The Twist: Unlike other apps of giving everyone a watered-down, generic mix of everything, the app creates clear, intentionally biased archetypes. This allows the group to vote on a vibe or dominant theme for the itinerary, forcing a clear decision on what matters most to them. The thing is we could satisfy all the users at the same time, as they might one more out of something instead of another type of places. 
 
 Secondly. traditional travel tools use static images linked to specific venue listings. Here, the visual preview dynamically adapts alongside the mutating AI itinerary, giving users instant visual context for every algorithmic modification, so that they know what they are expecting in each places giving them more convenience instead of just googling the places and checking what to expected there.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
