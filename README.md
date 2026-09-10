@@ -2,7 +2,7 @@
 
 # Codenection-
 
-**RADIANT ROUTE by Tiki Taka**
+**TripSync by Tiki Taka**
 
 **Team:** Ooi Chong Zee, Chan Zhi Ying, Khor Mei Shi
 
@@ -117,6 +117,50 @@ xxx
 
 ### Build Plan & Scope
 
+#### Build Plan
+
+The prototype will be developed in phases, **prioritising the core features first** within the available building period. Supporting features will only be implemented after the core features are completed, allowing the team to focus its limited development time and resources on the main features.
+
+**Phase 1 - Mobile App Foundation & Setup**
+- Set up mobile app structure and navigation
+- Build basic UI components
+- Set up backend and database
+
+↓
+
+**Phase 2 - Trip & Group Management**
+- Build trip setup and travel preferences
+- Implement group creation and joining using a unique group code
+
+↓
+
+**Phase 3 - AI Itinerary Generation**
+- Integrate the AI service
+- Implement itinerary generation based on user preferences
+- Generate 3 itinerary options
+
+↓
+
+**Phase 4 - Group Decision-Making**
+- Implement itinerary review and voting
+- Display voting results
+- Implement host selection of 2 preferred plans for the AI Round 2 recommendations when needed
+
+↓
+
+**Phase 5 - Itinerary & Map**
+- Build the daily itinerary view
+- Integrate planned activities and locations
+- Integrate the map to display the planned locations and routes
+
+↓
+
+**Phase 6 - Supporting Features**
+- Implement essential supporting features such as notifications, sign out, and privacy settings
+- Integrate all core modules
+
+<br>
+
 #### Prototype Scope
 
 The prototype will focus on the core features needed to plan, compare, and decide on a solo or group trip: 
@@ -127,13 +171,15 @@ The prototype will focus on the core features needed to plan, compare, and decid
 - AI Itinerary Recommendations
   - AI generates **3 initial itinerary plans** based on user preferences and input.
 - Group Voting & Review
-  - Each group member can review the recommended plans and vote for their preferred itinerary. They can also review the voting results and determine the preferred plans.
+  - Each group member can review the recommended plans and vote for their preferred itinerary. Users can review the voting results and determine the preferred plans.
 - AI Round 2 Recommendation
-  - Host can select **2 preferred plans**, which the AI combines to generate **1 additional itinerary** if there is no clear group preference.
+  - The host can select **2 preferred plans**, which the AI combines to generate **1 additional itinerary** if there is no clear group preference.
 - Itinerary & Map
   - Users can view the selected itinerary by day, including activities and locations, and view the planned locations and route on a map.
 
 The goal is to demonstrate the complete journey from trip setup and AI recommendations to solo or group decision-making.
+
+<br>
 
 #### Out of Scope
 
