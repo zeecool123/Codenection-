@@ -117,4 +117,35 @@ xxx
 
 ### Build Plan & Scope
 
-xxx
+#### Prototype Scope
+
+The prototype will focus on the core features needed to plan, compare, and decide on a solo or group trip: 
+- Trip Setup
+  - Users can set up a trip by selecting the destination, trip duration, number of travellers, and travel preferences.
+- Group Creation
+  - Users can create a travel group and invite other members using a unique group code.
+- AI Itinerary Recommendations
+  - AI generates **3 initial itinerary plans** based on user preferences and input.
+- Group Voting & Review
+  - Each group member can review the recommended plans and vote for their preferred itinerary. They can also review the voting results and determine the preferred plans.
+- AI Round 2 Recommendation
+  - Host can select **2 preferred plans**, which the AI combines to generate **1 additional itinerary** if there is no clear group preference.
+- Itinerary & Map
+  - Users can view the selected itinerary by day, including activities and locations, and view the planned locations and route on a map.
+
+The goal is to demonstrate the complete journey from trip setup and AI recommendations to solo or group decision-making.
+
+#### Out of Scope
+
+To keep the prototype achievable within the available development time, the following features are outside the current scope:
+- Flight and hotel booking
+- Payment processing
+- Full navigation or navigation guidance
+- Real time traffic optimisations
+- Real time weather forecasts
+- Complex multi-city or multi-country trip planning
+- Emergency trip replanning
+- Integrations with travel booking platforms
+
+These features may be considered for future development but are intentionally excluded from the prototype to keep the core experience focused and achievable.
+
