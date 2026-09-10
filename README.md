@@ -136,4 +136,18 @@ Secondly. traditional travel tools use static images linked to specific venue li
 
 
 
-5.
+## 5. Technical Architecture & Feasibility
+### Tech Stack
+| Components | Technology | Reason for choosing it | Constraints |
+| --- | --- | --- | --- |
+| Frontend | xxx | xxx | xxx |
+| Backend | xxx | xxx | xxx |
+| Database | xxx | xxx | xxx |
+| AI Model | xxx | xxx | xxx |
+| Hosting | xxx | xxx | xxx |
+
+### System Architecture Diagram
+xxx
+
+### Build Plan & Scope
+xxx
