@@ -38,7 +38,7 @@ The diagram above maps out the problems we identified with travel planning today
 
 We shortlisted five features across the trip lifecycle. Three were cut early because of privacy, technical-complexity, and timeline constraints. The remaining two — AI-driven recommendations and group preference matching — were brought to mentor consultation on 5 September; following the advice to focus on one core feature, we selected group preference matching as our MVP.
 
-[![User POV design flow](https://github.com/zeecool123/Codenection-/raw/main/assets/ideation/user_pov_design_flow.png)](/zeecool123/Codenection-/blob/main/assets/ideation/user_pov_design_flow.png)
+[![User POV design flow](https://github.com/zeecool123/Codenection-/raw/main/assets/ideation/user_pov_design_flow_1.png)](/zeecool123/Codenection-/blob/main/assets/ideation/user_pov_design_flow_1.png)
 
 Once we settled on group preference matching as our core feature, we mapped the design from the user's point of view — starting with what a user would want at each stage, then designing the screen to answer that need. The host isn't locked into a single AI-generated route: they can keep combining and re-voting on favourite segments in a loop until the group reaches a route everyone's happy with, before the final itinerary is visualised on the map.
 
