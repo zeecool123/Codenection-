@@ -116,7 +116,9 @@ Secondly, traditional travel tools use static images linked to specific venue li
 
 ### System Architecture Diagram
 
-xxx
+![System Architecture Diagram](https://github.com/user-attachments/assets/c8ca3b96-5eb9-4367-b3a8-6de8619a9dc7)
+
+The React Native mobile app communicates with the Django REST API, which manages application data, authentication and integrations with AI, Maps and notification services.
 
 ### Build Plan & Scope
 
