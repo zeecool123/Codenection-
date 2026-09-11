@@ -30,7 +30,7 @@
 ### 2.2 Ideation Boards
 This section shows how we extended our idea from the ground up. We started by identifying the common problems people face when planning a trip — both from our own experience and from gaps we noticed in existing travel planning apps (our competitors). These problems became the foundation we branched our ideas from.
 
-[![Circle Process Diagram Infographic Graph](https://github.com/zeecool123/Codenection-/raw/main/assets/ideation/Circle Process Diagram Infographic Graph.png)](/zeecool123/Codenection-/blob/main/assets/ideation/Circle Process Diagram Infographic Graph.png)
+[![Circle Process Diagram Infographic Graph](https://github.com/zeecool123/Codenection-/raw/main/assets/ideation/Circle_Process_Diagram_Infographic_Graph.png)](/zeecool123/Codenection-/blob/main/assets/ideation/Circle_Process_Diagram_Infographic_Graph.png)
 
 The diagram above maps out the problems we identified with travel planning today, branching out from the core issue into specific pain points — such as booking info being scattered across apps and emails, group trips being hard to coordinate, and plans falling apart when something unexpected happens mid-trip. These problem statements directly shaped the feature ideas we explored in the rest of this section.
 
