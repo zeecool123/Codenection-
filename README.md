@@ -30,7 +30,7 @@
 ### 2.2 Ideation Boards
 This section shows how we extended our idea from the ground up. We started by identifying the common problems people face when planning a trip — both from our own experience and from gaps we noticed in existing travel planning apps (our competitors). These problems became the foundation we branched our ideas from.
 
-[![Circle Process Diagram Infographic Graph](https://github.com/zeecool123/Codenection-/raw/main/assets/ideation/idea-narrowing-with-mentor-advice.png)](/zeecool123/Codenection-/blob/main/assets/ideation/Circle Process Diagram Infographic Graph.png)
+[![Circle Process Diagram Infographic Graph](https://github.com/zeecool123/Codenection-/raw/main/assets/ideation/Circle Process Diagram Infographic Graph.png)](/zeecool123/Codenection-/blob/main/assets/ideation/Circle Process Diagram Infographic Graph.png)
 
 The diagram above maps out the problems we identified with travel planning today, branching out from the core issue into specific pain points — such as booking info being scattered across apps and emails, group trips being hard to coordinate, and plans falling apart when something unexpected happens mid-trip. These problem statements directly shaped the feature ideas we explored in the rest of this section.
 
@@ -38,7 +38,7 @@ The diagram above maps out the problems we identified with travel planning today
 
 We shortlisted five features across the trip lifecycle. Three were cut early because of privacy, technical-complexity, and timeline constraints. The remaining two — AI-driven recommendations and group preference matching — were brought to mentor consultation on 5 September; following the advice to focus on one core feature, we selected group preference matching as our MVP.
 
-[![User POV design flow](https://github.com/zeecool123/Codenection-/raw/main/assets/ideation/idea-narrowing-with-mentor-advice.png)](/zeecool123/Codenection-/blob/main/assets/ideation/user_pov_design_flow.png)
+[![User POV design flow](https://github.com/zeecool123/Codenection-/raw/main/assets/ideation/user_pov_design_flow.png)](/zeecool123/Codenection-/blob/main/assets/ideation/user_pov_design_flow.png)
 
 Once we settled on group preference matching as our core feature, we mapped the design from the user's point of view — starting with what a user would want at each stage, then designing the screen to answer that need. The host isn't locked into a single AI-generated route: they can keep combining and re-voting on favourite segments in a loop until the group reaches a route everyone's happy with, before the final itinerary is visualised on the map.
 
