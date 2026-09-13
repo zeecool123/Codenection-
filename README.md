@@ -47,17 +47,10 @@ Once we settled on group preference matching as our core feature, we mapped the 
 
 ### 2.3 Mentor Consultation
 
-#### 5 Sep 2026, 9:20 PM — Zach Khong
-
-**Feedback received**
-- **Idea:** Be original in how you present data. Maximise one core feature rather than spreading thin; users are usually not comfortable providing a lot of input.
-- **Pitching:** Build the pitch around one core feature, rather than presenting a long feature list.
-- **UI/UX:** Keep the interface simple.
-
-**What we changed**
-- Narrowed the app to one standout core feature instead of trying to solve every travel-planning pain point at once.
-- Reduced the manual input expected from users by relying more on swipe and quick-choice interactions rather than forms.
-- Simplified the UI direction so the core feature is clear, without extra functions competing for attention.
+| Date | Mentor | Feedback Received | What Was Changed |
+| ---- | ------ | ------------------ | ----------------- |
+| 5 Sep 2026, 9:40 PM | Zach Khong | <ul><li><strong>Idea:</strong> Be original in how you present data. Maximise one core feature rather than spreading thin; users are usually not comfortable providing a lot of input.</li><li><strong>Pitching:</strong> Build the pitch around one core feature, rather than presenting a long feature list.</li><li><strong>UI/UX:</strong> Keep the interface simple.</li></ul> | <ul><li>Narrowed the app to one standout core feature instead of trying to solve every travel-planning pain point at once.</li><li>Reduced the manual input expected from users by relying more on swipe and quick-choice interactions rather than forms.</li><li>Simplified the UI direction so the core feature is clear, without extra functions competing for attention.</li></ul> |
+| 12 Sep 2026, 3:00 PM | Janelle Tan | <ul><li>We asked what we should prioritise and emphasise in our pitch to score higher and stand out in the hackathon.</li><li>She said the choice is up to us, but advised that we spend less time on the problem statement and instead focus more on clearly showing our product's uniqueness.</li><li>She suggested describing our actual functions and features in more depth rather than talking extensively about the problem.</li></ul> | <ul><li>Restructured our pitch flow to cut down the problem statement section.</li><li>Reallocated that time to walking through our product's core features and what makes it different from existing travel planners.</li></ul> |
 
 ## 3. Prototype Walkthrough
 
