@@ -26,6 +26,9 @@
 |---|---|
 | Push notifications recommending nearby food or places during free time on the trip, based on the itinerary | Dropped — too many unique functions, making the app complicated |
 | Recommending places using data pulled from various internet sources, instead of traditional curated tour-guide spots | Dropped — unrealistic, as sources could be unpredictable |
+| AI voting system that keeps voting until all users is satisfied with a hybrid route feature | Kept — Very good for satisfaction of users, having them agreed in common interest |
+| AI agent recommending relevant places in specific cities  | Kept - Able to recommend better theme for specific cities, food and cultural for some rural places in China for example |
+| POV preview system for destinations in routes | Kept - Let users understand what to expect in destinations |
 
 ### 2.2 Ideation Boards
 This section shows how we extended our idea from the ground up. We started by identifying the common problems people face when planning a trip — both from our own experience and from gaps we noticed in existing travel planning apps (our competitors). These problems became the foundation we branched our ideas from.
