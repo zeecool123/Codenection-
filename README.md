@@ -1,16 +1,14 @@
-# Codenection-
+# TripSync by Tiki Taka
 
-# Codenection-
-
-**TripSync by Tiki Taka**
-
-**Team:** Ooi Chong Zee, Chan Zhi Ying, Khor Mei Shi
+**Team:** Khor Mei Shi, Chan Zhi Ying, Ooi Chong Zee
 
 **Problem Statement:** Travel Planner
 
-**Video Presentation:**
+**Video Presentation:** [https://youtu.be/Z52IzP1fWBE](https://youtu.be/Z52IzP1fWBE)
 
-**Presentation Slides:**
+**Presentation Slides:** [https://canva.link/gddli47w3lneclw](https://canva.link/gddli47w3lneclw)
+
+---
 
 ## 1. Project Overview
 
@@ -24,11 +22,12 @@
 
 | Idea | Why it was dropped / kept |
 |---|---|
+| AI voting system that keeps voting until all users is satisfied with a hybrid route feature (Chosen) | Kept — Very good for satisfaction of users, having them agreed in common interest |
+| AI agent recommending relevant places in specific cities (Chosen) | Kept - Able to recommend better theme for specific cities, food and cultural for some rural places in China for example |
+| POV preview system for destinations in routes (Chosen) | Kept - Let users understand what to expect in destinations |
 | Push notifications recommending nearby food or places during free time on the trip, based on the itinerary | Dropped — too many unique functions, making the app complicated |
 | Recommending places using data pulled from various internet sources, instead of traditional curated tour-guide spots | Dropped — unrealistic, as sources could be unpredictable |
-| AI voting system that keeps voting until all users is satisfied with a hybrid route feature | Kept — Very good for satisfaction of users, having them agreed in common interest |
-| AI agent recommending relevant places in specific cities  | Kept - Able to recommend better theme for specific cities, food and cultural for some rural places in China for example |
-| POV preview system for destinations in routes | Kept - Let users understand what to expect in destinations |
+
 
 ### 2.2 Ideation Boards
 This section shows how we extended our idea from the ground up. We started by identifying the common problems people face when planning a trip — both from our own experience and from gaps we noticed in existing travel planning apps (our competitors). These problems became the foundation we branched our ideas from.
@@ -53,6 +52,8 @@ Once we settled on group preference matching as our core feature, we mapped the 
 | 12 Sep 2026, 3:00 PM | Janelle Tan | <ul><li>We asked what we should prioritise and emphasise in our pitch to score higher and stand out in the hackathon.</li><li>She said the choice is up to us, but advised that we spend less time on the problem statement and instead focus more on clearly showing our product's uniqueness.</li><li>She suggested describing our actual functions and features in more depth rather than talking extensively about the problem.</li></ul> | <ul><li>Restructured our pitch flow to cut down the problem statement section.</li><li>Reallocated that time to walking through our product's core features and what makes it different from existing travel planners.</li></ul> |
 
 ## 3. Prototype Walkthrough
+
+**UI Prototype:** [https://www.figma.com/make/dlWbAVVwzo5cgEmuL5ZFMj/Collaborative-Vacation-Planner?t=v9rltCdUK1zKq7ir-20&fullscreen=1](https://www.figma.com/make/dlWbAVVwzo5cgEmuL5ZFMj/Collaborative-Vacation-Planner?t=v9rltCdUK1zKq7ir-20&fullscreen=1) 
 
 ### 3.1 Start a group trip
 
